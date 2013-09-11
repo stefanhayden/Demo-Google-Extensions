@@ -1,0 +1,12 @@
+{
+	"name": "Open Yahoo and Bing when I go to Google",
+	"version": "0.0.0.1",
+	"manifest_version": 2,
+	"description": "Open Unlimited tabs",
+	"content_scripts": [{
+		"matches": ["http://www.google.com/*","https://www.google.com/*"],
+		"js": ["inject_results.js"],
+		"run_at": "document_end"
+	}],
+	"web_accessible_resources": ["nyancat.gif"]
+}
