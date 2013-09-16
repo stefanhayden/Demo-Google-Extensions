@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"description": "Look at Nyan Cat",
 	"browser_action": {
-		"default_icon": "nyancat.png",
+		"default_icon": "nyancat.gif",
     	"default_popup": "index.html"
 	}
 }
