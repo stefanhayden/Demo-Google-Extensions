@@ -9,3 +9,5 @@ After checkout you can go to your extentions settings page and check "Developer 
 You will then be given the option to "Load unpacked extension". 
 Simply point to the folder to load extension.
 If you try and modify the files remember that you need to refresh the extension to see the updates.
+
+See the slides here: http://www.slideshare.net/STHayden/unlimited-power-with-chrome-extensions-26284293
